@@ -3,7 +3,8 @@
 
 ### Problem Statement:
 
-The problem statement for "977. Squares of a Sorted Array" can be found on <a href="https://leetcode.com/problems/squares-of-a-sorted-array/description/" style="background-color:#FFA500;color:#fff;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;">LeetCode</a>.
+The problem statement for "977. Squares of a Sorted Array" can be found on [![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20%23977-orange)](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
 
 
 Given an integer array `nums` sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
