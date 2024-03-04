@@ -2,6 +2,9 @@
 
 ## Problem Statement
 
+The problem statement for "977. Squares of a Sorted Array" can be found on [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/description/).
+
+
 Given an integer array `nums` sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
 
 ### Example:
